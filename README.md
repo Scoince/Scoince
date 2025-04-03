@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Daniel Singh</h1>
-<h3 align="center">A passionate [Your Role/Title, e.g., Software Developer, Data Scientist, Student] from [Your Location, e.g., Manipur, India].</h3>
+<h3 align="center"><marquee>A student.</marquee></h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="M.Daniel Singh's GitHub Stats"  />
