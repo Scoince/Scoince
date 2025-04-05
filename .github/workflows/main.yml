@@ -32,3 +32,6 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          <img src="https://raw.githubusercontent.com/Scoince/Scoince/main/output/snake.svg" alt="Snake animation" />
+
