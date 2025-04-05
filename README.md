@@ -1,4 +1,4 @@
-<h3 align="left"># Hi 👋, I'm Daniel<br><br>I'm a Student from NIELIT, Imphal Manipur India.<br><br>## 🚀 About Me<br>- 🌱 I’m currently learning M.TECH [AI]<br>- 💼 I'm interested in AI Technologies<br>- 🤝 I’m looking to learn new stuffs<br>- 📫 How to reach me: officielworkingemail.com<br>## 🛠️ Skills<br>- Programming: Python<br>- Databases: MySQL</h3>
+<h3 align="left"> Hi 👋, I'm Daniel<br><br>I'm a Student from NIELIT, Imphal Manipur India.<br><br> 🚀 About Me<br>- 🌱 I’m currently learning M.TECH [AI]<br>- 💼 I'm interested in AI Technologies<br>- 🤝 I’m looking to learn new stuffs<br>- 📫 How to reach me: officielworkingemail.com<br> 🛠️ Skills<br>- Programming: Python<br>- Databases: MySQL</h3>
 
 ###
 
