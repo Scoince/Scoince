@@ -37,6 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Scoince/Scoince/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Scoince/Scoince/main/snake.svg" alt="Snake animation" />
 
 ###
