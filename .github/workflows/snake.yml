@@ -19,7 +19,7 @@ jobs:
       - name: Push to main branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output  # 👈 if you want to commit the output directly to the main branch
+          target_branch: gh-pages  # 👈 if you want to commit the output directly to the main branch
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
