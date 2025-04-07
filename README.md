@@ -36,6 +36,7 @@
 </div>
 
 ###
+![GitHub Snake](https://scoince.github.io/Scoince/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/Scoince/Scoince/main/snake.svg" alt="Snake animation" />
 
