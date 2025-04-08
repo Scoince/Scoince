@@ -7,8 +7,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning M.TECH [AI]  
 - 💼 I'm interested in AI Technologies  
-- 🤝 I’m looking to learn new stuffs  
-- 📫 How to reach me: danielcollegeboi@gmail.com  
+- 🤝 I’m looking to learn new stuffs 
 
 ## 🛠️ Skills
 - Programming: Python  
