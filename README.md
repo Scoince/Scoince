@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Daniel</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=2F0D64&width=435&lines=I'm+a+Student+from+NIELIT%2C+Imphal+Manipur+India." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=2F0D64&width=600&lines=I'm+a+Student+from+NIELIT%2C+Imphal+Manipur+India." alt="Typing SVG" />
 </a>
 
 ## 🚀 About Me
