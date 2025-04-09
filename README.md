@@ -5,6 +5,7 @@
 </a>
 
 ## 🚀 About Me
+- My full name is Moirangthem Daniel Singh
 - 🌱 I’m currently learning M.TECH [AI]  
 - 💼 I'm interested in AI Technologies  
 - 🤝 I’m looking to learn new stuffs 
