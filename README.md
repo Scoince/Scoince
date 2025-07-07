@@ -7,9 +7,9 @@
 ## 🚀 About Me
 - My full name is Moirangthem Daniel Singh
 - From Country-India, State-Manipur
-- 🌱 I’m currently learning M.TECH [AI]  
+- 🌱 I’m currently studying M.TECH in AI  
 - 💼 I'm interested in AI Technologies  
-- 🤝 I’m looking to learn new stuffs 
+- 🤝 I’m eager to learn new technologies 
 
 ## 🛠️ Skills
 - Programming: Python  
